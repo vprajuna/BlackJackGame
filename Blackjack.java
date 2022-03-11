@@ -6,6 +6,9 @@ public class Blackjack {
         Scanner userInput = new Scanner(System.in); //declare once
         P1Random randNum = new P1Random(); //declare once
 
+        // this is a comment for Lab 6!
+        // this is a second comment for Lab 6. 
+
         int valueHand = 0; // value of the player's hand
         int menuInput = 1; // user input of menu options (1 to 4)
         int countGame = 0; // keeps count of games played
